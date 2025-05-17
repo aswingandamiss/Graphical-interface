@@ -1,0 +1,9 @@
+Wire("line"); W_WIRE(3) M1(280.0, 20.0) X(240.0);
+Wire("line"); W_WIRE(3) M1(460.0, 100.0) X(240.0);
+Wire("line"); W_WIRE(3) M1(140.0, 100.0) X(280.0);
+Wire("line"); W_WIRE(3) M1(200.0, 120.0) X(260.0);
+Wire("line"); W_WIRE(3) M1(200.0, 220.0) X(360.0);
+OR(NORTH) CSI(260.0, 120.0);
+OR(NORTH) CSI(380.0, 360.0);
+OR(NORTH) CSI(400.0, 160.0);
+OR(NORTH) CSI(520.0, 120.0);
